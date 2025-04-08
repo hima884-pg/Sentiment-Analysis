@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Project Summary
+## 📌 Project Summary 
 
 - **Objective**: Predict sentiment (positive/negative) from product reviews.
 - **Algorithm Used**: Support Vector Machine (SVM)
